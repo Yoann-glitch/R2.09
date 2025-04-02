@@ -9,3 +9,14 @@ p {
 
 input[type="submit"]{
 }
+
+fieldset {
+    max-width: 500px;
+    margin-top: 10px;
+}
+
+legend {
+    font-weight: bold;
+    font-size: 20px;
+    color: #317ac1;
+}
