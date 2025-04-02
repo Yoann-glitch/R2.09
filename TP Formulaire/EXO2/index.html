@@ -1,24 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Title</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <title>Formulaire de Sondage</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <form action="#" method="POST">
-    <p>………</p>
-    <div class="item_pizza">
-      <input type="radio" id="marg" ……… >
-      <label for="marg">Marguarita</label>
-    </div>
-    ………
-    ………
-    </br><p>………</p>
-    <div class="item_fruit">
-      <input type="checkbox" id="frai" ……… >
-      <label for="frai">Fraises</label>
-    </div>
-    ………
-  </form>
+    <form action="#" method="post">
+        <p>Quelle est votre pizza préférée ?</p>
+        <div class="item_pizza">
+            <input type="radio" id="marg" name="pizza" value="marguarita">
+            <label for="marg">Marguarita</label>
+        </div>
+        <div class="item_pizza">
+            <input type="radio" id="hawai" name="pizza" value="hawaiienne">
+            <label for="hawai">Hawaïenne</label>
+        </div>
+        <div class="item_pizza">
+            <input type="radio" id="reine" name="pizza" value="reine">
+            <label for="reine">Reine</label>
+        </div>
+
+        <p>Quels fruits aimez-vous ?</p>
+        <div class="item_fruit">
+            <input type="checkbox" id="frai" name="fruit" value="fraises">
+            <label for="frai">Fraises</label>
+        </div>
+        <div class="item_fruit">
+            <input type="checkbox" id="banane" name="fruit" value="banane">
+            <label for="banane">Bananes</label>
+        </div>
+        <div class="item_fruit">
+            <input type="checkbox" id="kiwi" name="fruit" value="kiwi">
+            <label for="kiwi">Kiwi</label>
+        </div>
+
+        <input type="submit" value="Envoyer">
+    </form>
 </body>
+</html>
