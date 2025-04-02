@@ -6,20 +6,24 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Choisissez votre confiture préférée</h1>
+    <h1>Choisissez votre TOP 3 de confitures préférées</h1>
     <form method="GET" action="bilan_de_commande.php">
         <div>
-            <label for="conf">Faites un choix...</label>
-            <select id="conf" name="conf1">
-                <option value="" disabled selected hidden>Faites un choix...</option>
-                <option value="0">Fraise</option>
-                <option value="1">Framboise</option>
-                <option value="2">Abricot</option>
-                <option value="3">Myrtille</option>
-                <option value="4">Cerise</option>
+            <label for="conf">Sélectionnez vos confitures préférées :</label>
+            <select id="conf" name="confitures[]" multiple size="5">
+                <option value="Fraise">Fraise</option>
+                <option value="Framboise">Framboise</option>
+                <option value="Abricot">Abricot</option>
+                <option value="Myrtille">Myrtille</option>
+                <option value="Cerise">Cerise</option>
+                <option value="Orange">Orange</option>
+                <option value="Pêche">Pêche</option>
+                <option value="Mangue">Mangue</option>
             </select>
         </div>
-        <input type="submit" value="Envoyer">
+        <div>
+            <input type="submit" value="Envoyer">
+        </div>
     </form>
 </body>
 </html>
