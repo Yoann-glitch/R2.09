@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Calcul Volume ou Surface d'une Sphère</h1>
+    <img src="https://i.ibb.co/3zv9QQS/sphere.png" alt="Sphère" style="width: 300px; height: auto;">
     <form action="#" method="post">
         <div class="champ">
             <label for="radius">Rayon (en unités) :</label>
@@ -24,5 +25,22 @@
         </div>
     </form>
     <div id="result"></div>
+
+    <script>
+        document.querySelector('form').addEventListener('submit', function(event) {
+            event.preventDefault(); // Empêche l'envoi du formulaire
+            const radius = parseFloat(document.getElementById('radius').value);
+            const calculationType = document.querySelector('input[name="calculation"]:checked').value;
+            let result;
+
+            if (calculationType === 'volume') {
+                result = (4/3) * Math.PI * Math.pow(radius, 3);
+                document.getElementById('result').innerText = `Le volume de la sphère est : ${result.toFixed(2)} unités³`;
+            } else {
+                result = 4 * Math.PI * Math.pow(radius, 2);
+                document.getElementById('result').innerText = `La surface de la sphère est : ${result.toFixed(2)} unités²`;
+            }
+        });
+    </script>
 </body>
 </html>
