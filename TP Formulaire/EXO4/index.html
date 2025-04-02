@@ -2,9 +2,24 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Choix de votre Confiture Préférée</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+    <h1>Choisissez votre confiture préférée</h1>
+    <form method="GET" action="bilan_de_commande.php">
+        <div>
+            <label for="conf">Faites un choix...</label>
+            <select id="conf" name="conf1">
+                <option value="" disabled selected hidden>Faites un choix...</option>
+                <option value="0">Fraise</option>
+                <option value="1">Framboise</option>
+                <option value="2">Abricot</option>
+                <option value="3">Myrtille</option>
+                <option value="4">Cerise</option>
+            </select>
+        </div>
+        <input type="submit" value="Envoyer">
+    </form>
 </body>
 </html>
