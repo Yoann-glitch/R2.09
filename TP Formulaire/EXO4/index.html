@@ -6,51 +6,20 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Choisissez votre TOP 3 de confitures préférées</h1>
+    <h1>Choisissez votre confiture préférée</h1>
     <form method="GET" action="bilan_de_commande.php">
         <div>
-            <label for="fraise">
-                <input type="checkbox" id="fraise" name="confitures[]" value="Fraise"> Fraise
-            </label>
+            <label for="conf">Faites un choix...</label>
+            <select id="conf" name="conf1">
+                <option value="" disabled selected hidden>Faites un choix...</option>
+                <option value="0">Fraise</option>
+                <option value="1">Framboise</option>
+                <option value="2">Abricot</option>
+                <option value="3">Myrtille</option>
+                <option value="4">Cerise</option>
+            </select>
         </div>
-        <div>
-            <label for="framboise">
-                <input type="checkbox" id="framboise" name="confitures[]" value="Framboise"> Framboise
-            </label>
-        </div>
-        <div>
-            <label for="abricot">
-                <input type="checkbox" id="abricot" name="confitures[]" value="Abricot"> Abricot
-            </label>
-        </div>
-        <div>
-            <label for="myrtille">
-                <input type="checkbox" id="myrtille" name="confitures[]" value="Myrtille"> Myrtille
-            </label>
-        </div>
-        <div>
-            <label for="cerise">
-                <input type="checkbox" id="cerise" name="confitures[]" value="Cerise"> Cerise
-            </label>
-        </div>
-        <div>
-            <label for="orange">
-                <input type="checkbox" id="orange" name="confitures[]" value="Orange"> Orange
-            </label>
-        </div>
-        <div>
-            <label for="peche">
-                <input type="checkbox" id="peche" name="confitures[]" value="Pêche"> Pêche
-            </label>
-        </div>
-        <div>
-            <label for="mangue">
-                <input type="checkbox" id="mangue" name="confitures[]" value="Mangue"> Mangue
-            </label>
-        </div>
-        <div>
-            <input type="submit" value="Envoyer">
-        </div>
+        <input type="submit" value="Envoyer">
     </form>
 </body>
 </html>
