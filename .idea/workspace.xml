@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fe8011-04c7-4553-945e-fdd24dd46feb" name="Changes" comment="R209">
-      <change beforePath="$PROJECT_DIR$/mysecondproject/mysecondapp/template/formulaire1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysecondproject/mysecondapp/template/formulaire2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysecondproject/mysecondapp/template/formulaire3.html" beforeDir="false" />
-    </list>
+    <list default="true" id="e9fe8011-04c7-4553-945e-fdd24dd46feb" name="Changes" comment="R209" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,14 +68,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742974663634</updated>
-    </task>
-    <task id="LOCAL-00001" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743490208922</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1743490208922</updated>
     </task>
     <task id="LOCAL-00002" summary="R209">
       <option name="closed" value="true" />
@@ -465,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743584862877</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743585263876</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1743585263877</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
