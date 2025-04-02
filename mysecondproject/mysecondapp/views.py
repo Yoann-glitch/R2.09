@@ -1,5 +1,6 @@
 from django.shortcuts import render
+from .models import Article
 
-# Create your views here.
-def index(request):
-2 return render(request, 'mysecondapp/formulaire1.html')
+def liste_articles(request):
+    articles = Article.objects.all()
+    return render(request, 'nom_de_l_application/liste_articles.html', {'articles': articles})
