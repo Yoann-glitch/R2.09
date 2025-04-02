@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9fe8011-04c7-4553-945e-fdd24dd46feb" name="Changes" comment="R209">
-      <change beforePath="$PROJECT_DIR$/mysecondproject/mysecondapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysecondproject/mysecondapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +46,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/install/PycharmProjects/R2.09&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/install/PycharmProjects/R2.09",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Debugger"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,30 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742974663634</updated>
-    </task>
-    <task id="LOCAL-00005" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743490708189</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1743490708189</updated>
-    </task>
-    <task id="LOCAL-00006" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743490909453</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1743490909453</updated>
-    </task>
-    <task id="LOCAL-00007" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743491344795</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1743491344795</updated>
     </task>
     <task id="LOCAL-00008" summary="R209">
       <option name="closed" value="true" />
@@ -463,7 +439,31 @@
       <option name="project" value="LOCAL" />
       <updated>1743585770001</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743585955618</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1743585955618</updated>
+    </task>
+    <task id="LOCAL-00055" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743586039053</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1743586039053</updated>
+    </task>
+    <task id="LOCAL-00056" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743586123796</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1743586123796</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
