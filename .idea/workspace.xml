@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fe8011-04c7-4553-945e-fdd24dd46feb" name="Changes" comment="R209" />
+    <list default="true" id="e9fe8011-04c7-4553-945e-fdd24dd46feb" name="Changes" comment="R209">
+      <change afterPath="$PROJECT_DIR$/bibliotheque/bibliothequeapp/templates/Livre/ajout.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -68,22 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742974663634</updated>
-    </task>
-    <task id="LOCAL-00029" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743580551147</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1743580551147</updated>
-    </task>
-    <task id="LOCAL-00030" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743582140331</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1743582140331</updated>
     </task>
     <task id="LOCAL-00031" summary="R209">
       <option name="closed" value="true" />
@@ -461,7 +447,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743684566860</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743684690070</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1743684690070</updated>
+    </task>
+    <task id="LOCAL-00079" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743684789462</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1743684789462</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
