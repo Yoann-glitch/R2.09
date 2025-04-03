@@ -8,6 +8,5 @@ class Livre(models.Model): #déclare la classe Livre héritant de la classe Mode
         resume = models.TextField(null = True, blank = True) # champs de type text long
 
         def __str__(self):
-            chaine = f"{self.titre}␣écrit␣par␣{self.auteur}␣édité␣le␣
-    {self.date_parution}"
+            chaine = f"{self.titre}␣écrit␣par␣{self.auteur}␣édité␣le␣{self.date_parution}"
             return chaine
