@@ -69,30 +69,6 @@
       <option name="presentableId" value="Default" />
       <updated>1742974663634</updated>
     </task>
-    <task id="LOCAL-00026" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743579365650</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1743579365650</updated>
-    </task>
-    <task id="LOCAL-00027" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743579481824</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1743579481824</updated>
-    </task>
-    <task id="LOCAL-00028" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743579513076</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1743579513076</updated>
-    </task>
     <task id="LOCAL-00029" summary="R209">
       <option name="closed" value="true" />
       <created>1743580551147</created>
@@ -461,7 +437,31 @@
       <option name="project" value="LOCAL" />
       <updated>1743684181479</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743684318645</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1743684318653</updated>
+    </task>
+    <task id="LOCAL-00076" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743684451699</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1743684451699</updated>
+    </task>
+    <task id="LOCAL-00077" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743684566860</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1743684566860</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -478,5 +478,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="R209" />
     <option name="LAST_COMMIT_MESSAGE" value="R209" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bibliotheque/bibliothequeapp/forms.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
