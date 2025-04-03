@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fe8011-04c7-4553-945e-fdd24dd46feb" name="Changes" comment="R209" />
+    <list default="true" id="e9fe8011-04c7-4553-945e-fdd24dd46feb" name="Changes" comment="R209">
+      <change beforePath="$PROJECT_DIR$/projetTP2/appTP2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/appTP2/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/appTP2/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/appTP2/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/appTP2/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/appTP2/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/appTP2/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/appTP2/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/projetTP2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/projetTP2/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/projetTP2/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/projetTP2/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetTP2/projetTP2/wsgi.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,14 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742974663634</updated>
-    </task>
-    <task id="LOCAL-00018" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743577141200</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1743577141200</updated>
     </task>
     <task id="LOCAL-00019" summary="R209">
       <option name="closed" value="true" />
@@ -461,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743683183068</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743683328269</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1743683328269</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
