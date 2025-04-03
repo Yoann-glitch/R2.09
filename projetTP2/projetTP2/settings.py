@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'projetTP2.apps.projetTP2Config'
 ]
 
 MIDDLEWARE = [
