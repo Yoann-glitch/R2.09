@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fe8011-04c7-4553-945e-fdd24dd46feb" name="Changes" comment="R209" />
+    <list default="true" id="e9fe8011-04c7-4553-945e-fdd24dd46feb" name="Changes" comment="R209">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,10 +51,16 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/install/PycharmProjects/R2.09/bibliotheque",
+    "last_opened_file_path": "C:/Users/install/PycharmProjects/R2.09/bibliotheque/bibliotheque",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Debugger"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\install\PycharmProjects\R2.09\bibliotheque\bibliotheque" />
+      <recent name="C:\Users\install\PycharmProjects\R2.09\bibliotheque" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742974663634</updated>
-    </task>
-    <task id="LOCAL-00051" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743585548352</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1743585548352</updated>
     </task>
     <task id="LOCAL-00052" summary="R209">
       <option name="closed" value="true" />
@@ -461,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743689489866</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743689573317</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1743689573317</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
