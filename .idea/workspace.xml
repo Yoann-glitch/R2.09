@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fe8011-04c7-4553-945e-fdd24dd46feb" name="Changes" comment="R209">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bibliotheque/bibliotheque/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bibliotheque/bibliotheque/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="e9fe8011-04c7-4553-945e-fdd24dd46feb" name="Changes" comment="R209" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,22 +68,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742974663634</updated>
-    </task>
-    <task id="LOCAL-00047" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743584590207</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1743584590207</updated>
-    </task>
-    <task id="LOCAL-00048" summary="R209">
-      <option name="closed" value="true" />
-      <created>1743584779422</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1743584779422</updated>
     </task>
     <task id="LOCAL-00049" summary="R209">
       <option name="closed" value="true" />
@@ -464,7 +445,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743687702224</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743688420271</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1743688420271</updated>
+    </task>
+    <task id="LOCAL-00097" summary="R209">
+      <option name="closed" value="true" />
+      <created>1743689116085</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1743689116085</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,6 +486,11 @@
           <url>file://$PROJECT_DIR$/bibliotheque/bibliothequeapp/forms.py</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bibliotheque/bibliotheque/urls.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

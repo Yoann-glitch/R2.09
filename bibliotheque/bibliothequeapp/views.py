@@ -12,7 +12,7 @@ def ajout(request):
             return render(request,"Livre/ajout.html",{"form": form})
     else :
         form = LivreForm() # création d'un formulaire vide
-        return render(request,"bibliotheque/ajout.html",{"form" : form})
+        return render(request,"Livre/ajout.html",{"form" : form})
 
 def traitement(request):
     lform = LivreForm(request.POST)
