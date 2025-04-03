@@ -9,7 +9,7 @@ def ajout(request):
             Livre = form.save() # sauvegarde dans la base
             return render(request,"bibliotheque/affiche.html",{"Livre" : Livre}) #envoie vers une page d'affichage du Livre créé
         else:
-            return render(request,"bibliotheque/ajout.html",{"form": form})
+            return render(request,"Livre/ajout.html",{"form": form})
     else :
         form = LivreForm() # création d'un formulaire vide
         return render(request,"bibliotheque/ajout.html",{"form" : form})
